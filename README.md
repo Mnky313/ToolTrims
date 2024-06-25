@@ -8,9 +8,9 @@ Currently:
 * Shovel
 * Hoe
 * Sword
+* Bow
 
 Planned (Whenever I get a around to making texture for them):
-* Bow
 * Crossbow
 * Fishing Rod (potentially Carrot/Warped fungus on a stick for consistency)
 * Trident

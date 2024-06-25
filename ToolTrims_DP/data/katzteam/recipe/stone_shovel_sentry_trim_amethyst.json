@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_shovel"
+  },
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:custom_model_data": 7053,
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

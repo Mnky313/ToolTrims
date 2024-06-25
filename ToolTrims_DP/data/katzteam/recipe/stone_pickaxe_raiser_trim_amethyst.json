@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 7051,
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_sword"
+  },
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_model_data": 7059,
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

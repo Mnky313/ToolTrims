@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 6956,
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -1,0 +1,1088 @@
+{
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "predicate": { 
+          "custom_model_data": 6901
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6902
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6903
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6904
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6905
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6906
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6907
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6908
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6909
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6910
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6911
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6912
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6913
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6914
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6915
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6916
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6917
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6918
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_quartz"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6919
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6920
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6921
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6922
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6923
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6924
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6925
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6926
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6927
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6928
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6929
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6930
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6931
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6932
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6933
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6934
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6935
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6936
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_netherite"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6937
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6938
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6939
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6940
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6941
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6942
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6943
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6944
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6945
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6946
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6947
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6948
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6949
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6950
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6951
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6952
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6953
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6954
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_redstone"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6955
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6956
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6957
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6958
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6959
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6960
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6961
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6962
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6963
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6964
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6965
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6966
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6967
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6968
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6969
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6970
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6971
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6972
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_copper"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6973
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6974
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6975
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6976
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6977
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6978
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6979
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6980
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6981
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6982
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6983
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6984
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6985
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6986
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6987
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6988
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6989
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6990
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_gold"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6991
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6992
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6993
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6994
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6995
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6996
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6997
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6998
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 6999
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7000
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7001
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7002
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7003
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7004
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7005
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7006
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7007
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7008
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_emerald"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7009
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7010
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7011
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7012
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7013
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7014
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7015
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7016
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7017
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7018
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7019
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7020
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7021
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7022
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7023
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7024
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7025
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7026
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_diamond"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7027
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7028
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7029
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7030
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7031
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7032
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7033
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7034
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7035
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7036
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7037
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7038
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7039
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7040
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7041
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7042
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7043
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7044
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_lapis"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7045
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7046
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7047
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7048
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7049
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7050
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7051
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7052
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7053
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7054
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7055
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7056
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7057
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7058
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7059
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7060
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7061
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7062
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_amethyst"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7063
+      }, 
+      "model": "katzteam:item/stone_shovel_bolt_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7064
+      }, 
+      "model": "katzteam:item/stone_shovel_coast_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7065
+      }, 
+      "model": "katzteam:item/stone_shovel_dune_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7066
+      }, 
+      "model": "katzteam:item/stone_shovel_eye_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7067
+      }, 
+      "model": "katzteam:item/stone_shovel_flow_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7068
+      }, 
+      "model": "katzteam:item/stone_shovel_host_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7069
+      }, 
+      "model": "katzteam:item/stone_shovel_raiser_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7070
+      }, 
+      "model": "katzteam:item/stone_shovel_rib_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7071
+      }, 
+      "model": "katzteam:item/stone_shovel_sentry_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7072
+      }, 
+      "model": "katzteam:item/stone_shovel_shaper_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7073
+      }, 
+      "model": "katzteam:item/stone_shovel_silence_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7074
+      }, 
+      "model": "katzteam:item/stone_shovel_snout_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7075
+      }, 
+      "model": "katzteam:item/stone_shovel_spire_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7076
+      }, 
+      "model": "katzteam:item/stone_shovel_tide_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7077
+      }, 
+      "model": "katzteam:item/stone_shovel_vex_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7078
+      }, 
+      "model": "katzteam:item/stone_shovel_ward_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7079
+      }, 
+      "model": "katzteam:item/stone_shovel_wayfinder_trim_iron"
+    },
+    {
+      "predicate": { 
+          "custom_model_data": 7080
+      }, 
+      "model": "katzteam:item/stone_shovel_wild_trim_iron"
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/stone_shovel"
+  }
+}

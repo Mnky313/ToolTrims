@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "minecraft:bow",
+    "components": {
+      "minecraft:custom_model_data": 7070,
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -15,3 +15,5 @@ Planned (Whenever I get a around to making texture for them):
 * Fishing Rod (potentially Carrot/Warped fungus on a stick for consistency)
 * Trident
 * Mace
+
+![image](https://github.com/Mnky313/ToolTrims/assets/23646586/eca53139-d552-48c5-95dc-6c53ce12c881)

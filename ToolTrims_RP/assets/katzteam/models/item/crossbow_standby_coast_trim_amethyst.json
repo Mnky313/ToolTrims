@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/crossbow",
+  "textures": {
+    "layer0": "minecraft:item/crossbow_standby",
+    "layer1": "katzteam:trims/items/crossbow_standby_coast_amethyst"
+  }
+}

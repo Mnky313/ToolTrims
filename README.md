@@ -9,10 +9,10 @@ Currently:
 * Hoe
 * Sword
 * Bow
+* Crossbow
 
 Planned (Whenever I get a around to making texture for them):
-* Crossbow
-* Fishing Rod (potentially Carrot/Warped fungus on a stick for consistency)
+
 * Trident
 * Mace
 

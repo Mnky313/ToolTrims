@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_sword_coast_quartz"
+            "minecraft:item_model": "katzteam:wooden_sword_coast_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:coast",
+                "show_in_tooltip": true
+            }
         }
     }
 }

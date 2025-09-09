@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_shovel_ward_quartz"
+            "minecraft:item_model": "katzteam:netherite_shovel_ward_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:ward",
+                "show_in_tooltip": true
+            }
         }
     }
 }

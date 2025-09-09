@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_sword",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_sword_eye_resin"
+            "minecraft:item_model": "katzteam:diamond_sword_eye_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

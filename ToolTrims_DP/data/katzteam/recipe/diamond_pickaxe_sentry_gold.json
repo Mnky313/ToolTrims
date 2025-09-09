@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_pickaxe_sentry_gold"
+            "minecraft:item_model": "katzteam:diamond_pickaxe_sentry_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:sentry",
+                "show_in_tooltip": true
+            }
         }
     }
 }

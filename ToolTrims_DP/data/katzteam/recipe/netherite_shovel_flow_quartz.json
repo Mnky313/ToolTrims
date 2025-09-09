@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_shovel_flow_quartz"
+            "minecraft:item_model": "katzteam:netherite_shovel_flow_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

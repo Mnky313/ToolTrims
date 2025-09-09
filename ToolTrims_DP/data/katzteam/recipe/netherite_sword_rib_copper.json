@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_sword",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_sword_rib_copper"
+            "minecraft:item_model": "katzteam:netherite_sword_rib_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:rib",
+                "show_in_tooltip": true
+            }
         }
     }
 }

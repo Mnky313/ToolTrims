@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_pickaxe_bolt_resin"
+            "minecraft:item_model": "katzteam:diamond_pickaxe_bolt_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:bolt",
+                "show_in_tooltip": true
+            }
         }
     }
 }

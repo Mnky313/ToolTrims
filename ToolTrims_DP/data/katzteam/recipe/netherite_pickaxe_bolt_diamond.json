@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_pickaxe_bolt_diamond"
+            "minecraft:item_model": "katzteam:netherite_pickaxe_bolt_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:bolt",
+                "show_in_tooltip": true
+            }
         }
     }
 }

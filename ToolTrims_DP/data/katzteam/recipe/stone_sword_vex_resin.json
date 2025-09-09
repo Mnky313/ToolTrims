@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_sword",
         "components": {
-            "minecraft:item_model": "katzteam:stone_sword_vex_resin"
+            "minecraft:item_model": "katzteam:stone_sword_vex_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:vex",
+                "show_in_tooltip": true
+            }
         }
     }
 }

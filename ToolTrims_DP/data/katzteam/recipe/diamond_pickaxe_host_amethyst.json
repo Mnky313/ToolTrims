@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_pickaxe_host_amethyst"
+            "minecraft:item_model": "katzteam:diamond_pickaxe_host_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:host",
+                "show_in_tooltip": true
+            }
         }
     }
 }

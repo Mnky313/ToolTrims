@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_sword",
         "components": {
-            "minecraft:item_model": "katzteam:stone_sword_wayfinder_quartz"
+            "minecraft:item_model": "katzteam:stone_sword_wayfinder_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_pickaxe_wild_diamond"
+            "minecraft:item_model": "katzteam:wooden_pickaxe_wild_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:wild",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_pickaxe_flow_copper"
+            "minecraft:item_model": "katzteam:diamond_pickaxe_flow_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

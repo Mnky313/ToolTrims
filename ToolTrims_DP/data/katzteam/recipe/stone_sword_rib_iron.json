@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_sword",
         "components": {
-            "minecraft:item_model": "katzteam:stone_sword_rib_iron"
+            "minecraft:item_model": "katzteam:stone_sword_rib_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:rib",
+                "show_in_tooltip": true
+            }
         }
     }
 }

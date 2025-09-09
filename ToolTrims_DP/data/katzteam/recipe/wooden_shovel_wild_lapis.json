@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_shovel_wild_lapis"
+            "minecraft:item_model": "katzteam:wooden_shovel_wild_lapis",
+            "minecraft:trim": {
+                "material": "minecraft:lapis",
+                "pattern": "minecraft:wild",
+                "show_in_tooltip": true
+            }
         }
     }
 }

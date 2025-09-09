@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_pickaxe_eye_gold"
+            "minecraft:item_model": "katzteam:golden_pickaxe_eye_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

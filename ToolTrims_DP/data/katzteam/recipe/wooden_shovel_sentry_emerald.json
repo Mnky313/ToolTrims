@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_shovel_sentry_emerald"
+            "minecraft:item_model": "katzteam:wooden_shovel_sentry_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:sentry",
+                "show_in_tooltip": true
+            }
         }
     }
 }

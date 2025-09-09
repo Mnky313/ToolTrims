@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_pickaxe_wayfinder_iron"
+            "minecraft:item_model": "katzteam:golden_pickaxe_wayfinder_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

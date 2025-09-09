@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_hoe_eye_quartz"
+            "minecraft:item_model": "katzteam:iron_hoe_eye_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

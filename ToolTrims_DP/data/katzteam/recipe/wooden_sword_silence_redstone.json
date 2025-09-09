@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_sword_silence_redstone"
+            "minecraft:item_model": "katzteam:wooden_sword_silence_redstone",
+            "minecraft:trim": {
+                "material": "minecraft:redstone",
+                "pattern": "minecraft:silence",
+                "show_in_tooltip": true
+            }
         }
     }
 }

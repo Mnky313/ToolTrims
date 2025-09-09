@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_shovel_host_emerald"
+            "minecraft:item_model": "katzteam:wooden_shovel_host_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:host",
+                "show_in_tooltip": true
+            }
         }
     }
 }

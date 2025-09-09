@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_axe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_axe_dune_amethyst"
+            "minecraft:item_model": "katzteam:iron_axe_dune_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:dune",
+                "show_in_tooltip": true
+            }
         }
     }
 }

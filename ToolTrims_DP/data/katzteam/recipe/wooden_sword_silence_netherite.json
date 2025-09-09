@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_sword_silence_netherite"
+            "minecraft:item_model": "katzteam:wooden_sword_silence_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:silence",
+                "show_in_tooltip": true
+            }
         }
     }
 }

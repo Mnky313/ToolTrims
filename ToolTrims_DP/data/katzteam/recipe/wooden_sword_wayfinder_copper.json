@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_sword_wayfinder_copper"
+            "minecraft:item_model": "katzteam:wooden_sword_wayfinder_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

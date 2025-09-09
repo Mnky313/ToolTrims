@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_hoe_wild_iron"
+            "minecraft:item_model": "katzteam:netherite_hoe_wild_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:wild",
+                "show_in_tooltip": true
+            }
         }
     }
 }

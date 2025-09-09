@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_shovel_tide_amethyst"
+            "minecraft:item_model": "katzteam:diamond_shovel_tide_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:tide",
+                "show_in_tooltip": true
+            }
         }
     }
 }

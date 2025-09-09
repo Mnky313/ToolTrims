@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_sword",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_sword_dune_emerald"
+            "minecraft:item_model": "katzteam:diamond_sword_dune_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:dune",
+                "show_in_tooltip": true
+            }
         }
     }
 }

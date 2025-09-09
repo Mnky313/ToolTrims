@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_pickaxe_spire_copper"
+            "minecraft:item_model": "katzteam:stone_pickaxe_spire_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

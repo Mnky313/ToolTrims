@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_hoe_sentry_resin"
+            "minecraft:item_model": "katzteam:netherite_hoe_sentry_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:sentry",
+                "show_in_tooltip": true
+            }
         }
     }
 }

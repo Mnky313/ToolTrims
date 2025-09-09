@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:golden_sword_wild_amethyst"
+            "minecraft:item_model": "katzteam:golden_sword_wild_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:wild",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_shovel_silence_resin"
+            "minecraft:item_model": "katzteam:diamond_shovel_silence_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:silence",
+                "show_in_tooltip": true
+            }
         }
     }
 }

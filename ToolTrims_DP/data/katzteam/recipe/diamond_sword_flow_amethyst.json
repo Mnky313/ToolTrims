@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_sword",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_sword_flow_amethyst"
+            "minecraft:item_model": "katzteam:diamond_sword_flow_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

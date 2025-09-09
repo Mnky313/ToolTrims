@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_hoe_sentry_quartz"
+            "minecraft:item_model": "katzteam:diamond_hoe_sentry_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:sentry",
+                "show_in_tooltip": true
+            }
         }
     }
 }

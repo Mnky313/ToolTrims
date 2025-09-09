@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_pickaxe_tide_netherite"
+            "minecraft:item_model": "katzteam:iron_pickaxe_tide_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:tide",
+                "show_in_tooltip": true
+            }
         }
     }
 }

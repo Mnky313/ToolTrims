@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_hoe_bolt_copper"
+            "minecraft:item_model": "katzteam:stone_hoe_bolt_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:bolt",
+                "show_in_tooltip": true
+            }
         }
     }
 }

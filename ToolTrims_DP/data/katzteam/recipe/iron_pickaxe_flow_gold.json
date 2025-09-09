@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_pickaxe_flow_gold"
+            "minecraft:item_model": "katzteam:iron_pickaxe_flow_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_sword",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_sword_flow_iron"
+            "minecraft:item_model": "katzteam:netherite_sword_flow_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_hoe_coast_amethyst"
+            "minecraft:item_model": "katzteam:stone_hoe_coast_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:coast",
+                "show_in_tooltip": true
+            }
         }
     }
 }

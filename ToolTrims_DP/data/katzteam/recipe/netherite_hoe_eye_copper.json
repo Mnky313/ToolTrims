@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_hoe_eye_copper"
+            "minecraft:item_model": "katzteam:netherite_hoe_eye_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

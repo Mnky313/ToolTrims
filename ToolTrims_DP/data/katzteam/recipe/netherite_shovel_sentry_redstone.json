@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_shovel_sentry_redstone"
+            "minecraft:item_model": "katzteam:netherite_shovel_sentry_redstone",
+            "minecraft:trim": {
+                "material": "minecraft:redstone",
+                "pattern": "minecraft:sentry",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_sword",
         "components": {
-            "minecraft:item_model": "katzteam:stone_sword_shaper_iron"
+            "minecraft:item_model": "katzteam:stone_sword_shaper_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_pickaxe_vex_emerald"
+            "minecraft:item_model": "katzteam:iron_pickaxe_vex_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:vex",
+                "show_in_tooltip": true
+            }
         }
     }
 }

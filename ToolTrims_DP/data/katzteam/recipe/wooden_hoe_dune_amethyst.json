@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_hoe_dune_amethyst"
+            "minecraft:item_model": "katzteam:wooden_hoe_dune_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:dune",
+                "show_in_tooltip": true
+            }
         }
     }
 }

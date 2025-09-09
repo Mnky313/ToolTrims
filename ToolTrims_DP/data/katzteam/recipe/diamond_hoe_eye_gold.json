@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_hoe_eye_gold"
+            "minecraft:item_model": "katzteam:diamond_hoe_eye_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

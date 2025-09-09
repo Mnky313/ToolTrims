@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:iron_shovel_shaper_copper"
+            "minecraft:item_model": "katzteam:iron_shovel_shaper_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

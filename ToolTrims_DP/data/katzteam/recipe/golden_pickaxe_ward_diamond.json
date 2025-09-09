@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_pickaxe_ward_diamond"
+            "minecraft:item_model": "katzteam:golden_pickaxe_ward_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:ward",
+                "show_in_tooltip": true
+            }
         }
     }
 }

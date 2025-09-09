@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_pickaxe_ward_netherite"
+            "minecraft:item_model": "katzteam:diamond_pickaxe_ward_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:ward",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_pickaxe_sentry_netherite"
+            "minecraft:item_model": "katzteam:golden_pickaxe_sentry_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:sentry",
+                "show_in_tooltip": true
+            }
         }
     }
 }

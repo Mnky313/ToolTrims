@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_sword_flow_iron"
+            "minecraft:item_model": "katzteam:wooden_sword_flow_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_hoe_silence_diamond"
+            "minecraft:item_model": "katzteam:wooden_hoe_silence_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:silence",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_hoe_rib_lapis"
+            "minecraft:item_model": "katzteam:wooden_hoe_rib_lapis",
+            "minecraft:trim": {
+                "material": "minecraft:lapis",
+                "pattern": "minecraft:rib",
+                "show_in_tooltip": true
+            }
         }
     }
 }

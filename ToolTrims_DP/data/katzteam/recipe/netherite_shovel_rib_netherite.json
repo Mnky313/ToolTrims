@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_shovel_rib_netherite"
+            "minecraft:item_model": "katzteam:netherite_shovel_rib_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:rib",
+                "show_in_tooltip": true
+            }
         }
     }
 }

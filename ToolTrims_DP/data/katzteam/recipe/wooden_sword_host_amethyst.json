@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_sword_host_amethyst"
+            "minecraft:item_model": "katzteam:wooden_sword_host_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:host",
+                "show_in_tooltip": true
+            }
         }
     }
 }

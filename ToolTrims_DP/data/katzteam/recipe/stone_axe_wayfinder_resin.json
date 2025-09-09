@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_axe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_axe_wayfinder_resin"
+            "minecraft:item_model": "katzteam:stone_axe_wayfinder_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

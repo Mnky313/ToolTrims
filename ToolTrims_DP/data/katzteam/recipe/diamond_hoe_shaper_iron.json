@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_hoe_shaper_iron"
+            "minecraft:item_model": "katzteam:diamond_hoe_shaper_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

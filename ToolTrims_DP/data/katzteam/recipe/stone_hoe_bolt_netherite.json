@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_hoe_bolt_netherite"
+            "minecraft:item_model": "katzteam:stone_hoe_bolt_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:bolt",
+                "show_in_tooltip": true
+            }
         }
     }
 }

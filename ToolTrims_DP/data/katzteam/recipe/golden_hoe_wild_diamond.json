@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_hoe_wild_diamond"
+            "minecraft:item_model": "katzteam:golden_hoe_wild_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:wild",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_hoe_flow_iron"
+            "minecraft:item_model": "katzteam:diamond_hoe_flow_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

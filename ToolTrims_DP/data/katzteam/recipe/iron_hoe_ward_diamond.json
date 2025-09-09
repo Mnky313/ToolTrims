@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_hoe_ward_diamond"
+            "minecraft:item_model": "katzteam:iron_hoe_ward_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:ward",
+                "show_in_tooltip": true
+            }
         }
     }
 }

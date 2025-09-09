@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_shovel_snout_lapis"
+            "minecraft:item_model": "katzteam:diamond_shovel_snout_lapis",
+            "minecraft:trim": {
+                "material": "minecraft:lapis",
+                "pattern": "minecraft:snout",
+                "show_in_tooltip": true
+            }
         }
     }
 }

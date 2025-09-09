@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_shovel_tide_iron"
+            "minecraft:item_model": "katzteam:wooden_shovel_tide_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:tide",
+                "show_in_tooltip": true
+            }
         }
     }
 }

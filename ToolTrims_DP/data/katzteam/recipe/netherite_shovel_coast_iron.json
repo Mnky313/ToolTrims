@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_shovel_coast_iron"
+            "minecraft:item_model": "katzteam:netherite_shovel_coast_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:coast",
+                "show_in_tooltip": true
+            }
         }
     }
 }

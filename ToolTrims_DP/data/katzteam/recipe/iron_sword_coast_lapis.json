@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_sword",
         "components": {
-            "minecraft:item_model": "katzteam:iron_sword_coast_lapis"
+            "minecraft:item_model": "katzteam:iron_sword_coast_lapis",
+            "minecraft:trim": {
+                "material": "minecraft:lapis",
+                "pattern": "minecraft:coast",
+                "show_in_tooltip": true
+            }
         }
     }
 }

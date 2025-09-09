@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_hoe_silence_iron"
+            "minecraft:item_model": "katzteam:stone_hoe_silence_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:silence",
+                "show_in_tooltip": true
+            }
         }
     }
 }

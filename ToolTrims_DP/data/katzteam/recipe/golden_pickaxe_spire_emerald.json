@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_pickaxe_spire_emerald"
+            "minecraft:item_model": "katzteam:golden_pickaxe_spire_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

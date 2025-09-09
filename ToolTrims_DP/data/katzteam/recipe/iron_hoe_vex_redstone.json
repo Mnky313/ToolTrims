@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_hoe_vex_redstone"
+            "minecraft:item_model": "katzteam:iron_hoe_vex_redstone",
+            "minecraft:trim": {
+                "material": "minecraft:redstone",
+                "pattern": "minecraft:vex",
+                "show_in_tooltip": true
+            }
         }
     }
 }

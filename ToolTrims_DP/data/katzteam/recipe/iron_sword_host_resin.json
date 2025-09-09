@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_sword",
         "components": {
-            "minecraft:item_model": "katzteam:iron_sword_host_resin"
+            "minecraft:item_model": "katzteam:iron_sword_host_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:host",
+                "show_in_tooltip": true
+            }
         }
     }
 }

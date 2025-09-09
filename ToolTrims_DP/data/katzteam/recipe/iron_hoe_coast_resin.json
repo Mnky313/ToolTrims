@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_hoe_coast_resin"
+            "minecraft:item_model": "katzteam:iron_hoe_coast_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:coast",
+                "show_in_tooltip": true
+            }
         }
     }
 }

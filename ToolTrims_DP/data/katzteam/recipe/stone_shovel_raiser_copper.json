@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:stone_shovel_raiser_copper"
+            "minecraft:item_model": "katzteam:stone_shovel_raiser_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:raiser",
+                "show_in_tooltip": true
+            }
         }
     }
 }

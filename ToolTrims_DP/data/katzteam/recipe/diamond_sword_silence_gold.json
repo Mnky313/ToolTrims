@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_sword",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_sword_silence_gold"
+            "minecraft:item_model": "katzteam:diamond_sword_silence_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:silence",
+                "show_in_tooltip": true
+            }
         }
     }
 }

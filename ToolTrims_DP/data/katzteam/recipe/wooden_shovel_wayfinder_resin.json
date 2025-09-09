@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_shovel_wayfinder_resin"
+            "minecraft:item_model": "katzteam:wooden_shovel_wayfinder_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

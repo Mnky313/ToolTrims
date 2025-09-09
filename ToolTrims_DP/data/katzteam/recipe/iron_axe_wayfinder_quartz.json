@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_axe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_axe_wayfinder_quartz"
+            "minecraft:item_model": "katzteam:iron_axe_wayfinder_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

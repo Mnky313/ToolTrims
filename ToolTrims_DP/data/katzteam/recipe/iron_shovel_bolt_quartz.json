@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:iron_shovel_bolt_quartz"
+            "minecraft:item_model": "katzteam:iron_shovel_bolt_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:bolt",
+                "show_in_tooltip": true
+            }
         }
     }
 }

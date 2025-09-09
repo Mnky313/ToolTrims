@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:iron_shovel_eye_amethyst"
+            "minecraft:item_model": "katzteam:iron_shovel_eye_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

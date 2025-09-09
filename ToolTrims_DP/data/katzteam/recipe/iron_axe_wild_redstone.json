@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_axe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_axe_wild_redstone"
+            "minecraft:item_model": "katzteam:iron_axe_wild_redstone",
+            "minecraft:trim": {
+                "material": "minecraft:redstone",
+                "pattern": "minecraft:wild",
+                "show_in_tooltip": true
+            }
         }
     }
 }

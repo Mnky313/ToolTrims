@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_axe",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_axe_shaper_quartz"
+            "minecraft:item_model": "katzteam:diamond_axe_shaper_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

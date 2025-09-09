@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:golden_shovel_spire_diamond"
+            "minecraft:item_model": "katzteam:golden_shovel_spire_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

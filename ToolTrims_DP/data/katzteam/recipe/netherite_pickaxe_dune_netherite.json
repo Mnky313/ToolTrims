@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_pickaxe_dune_netherite"
+            "minecraft:item_model": "katzteam:netherite_pickaxe_dune_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:dune",
+                "show_in_tooltip": true
+            }
         }
     }
 }

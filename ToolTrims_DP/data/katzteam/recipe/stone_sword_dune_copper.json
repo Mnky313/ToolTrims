@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_sword",
         "components": {
-            "minecraft:item_model": "katzteam:stone_sword_dune_copper"
+            "minecraft:item_model": "katzteam:stone_sword_dune_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:dune",
+                "show_in_tooltip": true
+            }
         }
     }
 }

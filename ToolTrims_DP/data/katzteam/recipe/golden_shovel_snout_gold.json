@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:golden_shovel_snout_gold"
+            "minecraft:item_model": "katzteam:golden_shovel_snout_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:snout",
+                "show_in_tooltip": true
+            }
         }
     }
 }

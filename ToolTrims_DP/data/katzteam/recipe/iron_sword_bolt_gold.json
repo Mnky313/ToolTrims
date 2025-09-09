@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_sword",
         "components": {
-            "minecraft:item_model": "katzteam:iron_sword_bolt_gold"
+            "minecraft:item_model": "katzteam:iron_sword_bolt_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:bolt",
+                "show_in_tooltip": true
+            }
         }
     }
 }

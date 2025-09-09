@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_pickaxe_coast_copper"
+            "minecraft:item_model": "katzteam:iron_pickaxe_coast_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:coast",
+                "show_in_tooltip": true
+            }
         }
     }
 }

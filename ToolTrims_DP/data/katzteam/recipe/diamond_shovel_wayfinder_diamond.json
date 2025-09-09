@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_shovel_wayfinder_diamond"
+            "minecraft:item_model": "katzteam:diamond_shovel_wayfinder_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

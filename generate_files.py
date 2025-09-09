@@ -100,7 +100,12 @@ for tool in TOOLS:
     "result": {{
         "id": "minecraft:{tool}",
         "components": {{
-            "minecraft:item_model": "katzteam:{tool}_{trim}_{resource_name}"
+            "minecraft:item_model": "katzteam:{tool}_{trim}_{resource_name}",
+            "minecraft:trim": {{
+                "material": "minecraft:{resource_name}",
+                "pattern": "minecraft:{trim}",
+                "show_in_tooltip": true
+            }}
         }}
     }}
 }}''')

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_hoe_spire_quartz"
+            "minecraft:item_model": "katzteam:iron_hoe_spire_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_hoe_silence_emerald"
+            "minecraft:item_model": "katzteam:netherite_hoe_silence_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:silence",
+                "show_in_tooltip": true
+            }
         }
     }
 }

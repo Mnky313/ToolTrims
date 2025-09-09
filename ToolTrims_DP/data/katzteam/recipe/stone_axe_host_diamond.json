@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_axe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_axe_host_diamond"
+            "minecraft:item_model": "katzteam:stone_axe_host_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:host",
+                "show_in_tooltip": true
+            }
         }
     }
 }

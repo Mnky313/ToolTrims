@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_sword",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_sword_spire_emerald"
+            "minecraft:item_model": "katzteam:netherite_sword_spire_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

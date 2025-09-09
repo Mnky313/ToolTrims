@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_hoe_shaper_netherite"
+            "minecraft:item_model": "katzteam:golden_hoe_shaper_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

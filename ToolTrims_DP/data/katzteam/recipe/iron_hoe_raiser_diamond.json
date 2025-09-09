@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_hoe_raiser_diamond"
+            "minecraft:item_model": "katzteam:iron_hoe_raiser_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:raiser",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:golden_sword_snout_diamond"
+            "minecraft:item_model": "katzteam:golden_sword_snout_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:snout",
+                "show_in_tooltip": true
+            }
         }
     }
 }

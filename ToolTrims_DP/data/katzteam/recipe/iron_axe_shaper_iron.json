@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_axe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_axe_shaper_iron"
+            "minecraft:item_model": "katzteam:iron_axe_shaper_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

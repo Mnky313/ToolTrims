@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_axe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_axe_spire_gold"
+            "minecraft:item_model": "katzteam:golden_axe_spire_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

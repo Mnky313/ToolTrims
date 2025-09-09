@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_pickaxe_flow_diamond"
+            "minecraft:item_model": "katzteam:netherite_pickaxe_flow_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

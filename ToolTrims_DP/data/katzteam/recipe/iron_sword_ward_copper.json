@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_sword",
         "components": {
-            "minecraft:item_model": "katzteam:iron_sword_ward_copper"
+            "minecraft:item_model": "katzteam:iron_sword_ward_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:ward",
+                "show_in_tooltip": true
+            }
         }
     }
 }

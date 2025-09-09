@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_pickaxe_wayfinder_lapis"
+            "minecraft:item_model": "katzteam:wooden_pickaxe_wayfinder_lapis",
+            "minecraft:trim": {
+                "material": "minecraft:lapis",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

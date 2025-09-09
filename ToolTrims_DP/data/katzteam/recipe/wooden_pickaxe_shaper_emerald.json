@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:wooden_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:wooden_pickaxe_shaper_emerald"
+            "minecraft:item_model": "katzteam:wooden_pickaxe_shaper_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

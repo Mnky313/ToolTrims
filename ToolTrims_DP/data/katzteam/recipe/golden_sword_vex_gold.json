@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_sword",
         "components": {
-            "minecraft:item_model": "katzteam:golden_sword_vex_gold"
+            "minecraft:item_model": "katzteam:golden_sword_vex_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:vex",
+                "show_in_tooltip": true
+            }
         }
     }
 }

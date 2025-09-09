@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_hoe_flow_emerald"
+            "minecraft:item_model": "katzteam:golden_hoe_flow_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:flow",
+                "show_in_tooltip": true
+            }
         }
     }
 }

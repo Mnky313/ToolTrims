@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_pickaxe_eye_iron"
+            "minecraft:item_model": "katzteam:netherite_pickaxe_eye_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

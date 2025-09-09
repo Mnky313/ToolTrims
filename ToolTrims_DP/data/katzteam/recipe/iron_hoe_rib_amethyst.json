@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_hoe_rib_amethyst"
+            "minecraft:item_model": "katzteam:iron_hoe_rib_amethyst",
+            "minecraft:trim": {
+                "material": "minecraft:amethyst",
+                "pattern": "minecraft:rib",
+                "show_in_tooltip": true
+            }
         }
     }
 }

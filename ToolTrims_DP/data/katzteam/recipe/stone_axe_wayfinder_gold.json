@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_axe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_axe_wayfinder_gold"
+            "minecraft:item_model": "katzteam:stone_axe_wayfinder_gold",
+            "minecraft:trim": {
+                "material": "minecraft:gold",
+                "pattern": "minecraft:wayfinder",
+                "show_in_tooltip": true
+            }
         }
     }
 }

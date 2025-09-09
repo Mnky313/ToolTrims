@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_pickaxe_spire_netherite"
+            "minecraft:item_model": "katzteam:stone_pickaxe_spire_netherite",
+            "minecraft:trim": {
+                "material": "minecraft:netherite",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

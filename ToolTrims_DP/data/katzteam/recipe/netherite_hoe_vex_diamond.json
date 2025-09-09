@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_hoe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_hoe_vex_diamond"
+            "minecraft:item_model": "katzteam:netherite_hoe_vex_diamond",
+            "minecraft:trim": {
+                "material": "minecraft:diamond",
+                "pattern": "minecraft:vex",
+                "show_in_tooltip": true
+            }
         }
     }
 }

@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:iron_axe",
         "components": {
-            "minecraft:item_model": "katzteam:iron_axe_eye_copper"
+            "minecraft:item_model": "katzteam:iron_axe_eye_copper",
+            "minecraft:trim": {
+                "material": "minecraft:copper",
+                "pattern": "minecraft:eye",
+                "show_in_tooltip": true
+            }
         }
     }
 }

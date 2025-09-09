@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:golden_axe",
         "components": {
-            "minecraft:item_model": "katzteam:golden_axe_bolt_quartz"
+            "minecraft:item_model": "katzteam:golden_axe_bolt_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:bolt",
+                "show_in_tooltip": true
+            }
         }
     }
 }

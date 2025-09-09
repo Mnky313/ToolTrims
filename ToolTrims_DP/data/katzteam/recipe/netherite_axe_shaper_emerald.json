@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_axe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_axe_shaper_emerald"
+            "minecraft:item_model": "katzteam:netherite_axe_shaper_emerald",
+            "minecraft:trim": {
+                "material": "minecraft:emerald",
+                "pattern": "minecraft:shaper",
+                "show_in_tooltip": true
+            }
         }
     }
 }

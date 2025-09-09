@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:netherite_axe",
         "components": {
-            "minecraft:item_model": "katzteam:netherite_axe_spire_quartz"
+            "minecraft:item_model": "katzteam:netherite_axe_spire_quartz",
+            "minecraft:trim": {
+                "material": "minecraft:quartz",
+                "pattern": "minecraft:spire",
+                "show_in_tooltip": true
+            }
         }
     }
 }

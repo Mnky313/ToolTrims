@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_pickaxe",
         "components": {
-            "minecraft:item_model": "katzteam:stone_pickaxe_tide_iron"
+            "minecraft:item_model": "katzteam:stone_pickaxe_tide_iron",
+            "minecraft:trim": {
+                "material": "minecraft:iron",
+                "pattern": "minecraft:tide",
+                "show_in_tooltip": true
+            }
         }
     }
 }

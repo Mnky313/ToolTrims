@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:diamond_sword",
         "components": {
-            "minecraft:item_model": "katzteam:diamond_sword_vex_redstone"
+            "minecraft:item_model": "katzteam:diamond_sword_vex_redstone",
+            "minecraft:trim": {
+                "material": "minecraft:redstone",
+                "pattern": "minecraft:vex",
+                "show_in_tooltip": true
+            }
         }
     }
 }

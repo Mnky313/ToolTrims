@@ -6,7 +6,12 @@
     "result": {
         "id": "minecraft:stone_shovel",
         "components": {
-            "minecraft:item_model": "katzteam:stone_shovel_dune_resin"
+            "minecraft:item_model": "katzteam:stone_shovel_dune_resin",
+            "minecraft:trim": {
+                "material": "minecraft:resin",
+                "pattern": "minecraft:dune",
+                "show_in_tooltip": true
+            }
         }
     }
 }

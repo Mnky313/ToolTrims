@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/crossbow",
-  "textures": {
-    "layer0": "minecraft:item/crossbow_firework",
-    "layer1": "katzteam:trims/items/crossbow_firework_sentry_gold"
-  }
-}

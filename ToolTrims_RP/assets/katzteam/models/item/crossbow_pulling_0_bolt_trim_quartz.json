@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/crossbow",
-  "textures": {
-    "layer0": "minecraft:item/crossbow_pulling_0",
-    "layer1": "katzteam:trims/items/crossbow_pulling_0_bolt_quartz"
-  }
-}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:sentry_armor_trim_smithing_template",
+    "base": "minecraft:wooden_axe",
+    "addition": "minecraft:lapis_lazuli",
+    "result": {
+        "id": "minecraft:wooden_axe",
+        "components": {
+            "minecraft:item_model": "katzteam:wooden_axe_sentry_lapis"
+        }
+    }
+}

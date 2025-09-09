@@ -5,7 +5,7 @@ TOOLS = [
     "golden_pickaxe",
     "diamond_pickaxe",
     "netherite_pickaxe",
-    "wooden_pickaxe",
+    "wooden_axe",
     "stone_axe",
     "iron_axe",
     "golden_axe",

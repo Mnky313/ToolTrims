@@ -8,6 +8,8 @@ Currently:
 * Shovel
 * Hoe
 * Sword
+
+Removed (update changed how custom models work, might come back in the future):
 * Bow
 * Crossbow
 

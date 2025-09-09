@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:silence_armor_trim_smithing_template",
+    "base": "minecraft:diamond_pickaxe",
+    "addition": "minecraft:netherite_ingot",
+    "result": {
+        "id": "minecraft:diamond_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_pickaxe_silence_netherite"
+        }
+    }
+}

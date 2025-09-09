@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:wild_armor_trim_smithing_template",
+    "base": "minecraft:stone_sword",
+    "addition": "minecraft:redstone",
+    "result": {
+        "id": "minecraft:stone_sword",
+        "components": {
+            "minecraft:item_model": "katzteam:stone_sword_wild_redstone"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flow_armor_trim_smithing_template",
+    "base": "minecraft:iron_pickaxe",
+    "addition": "minecraft:quartz",
+    "result": {
+        "id": "minecraft:iron_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_pickaxe_flow_quartz"
+        }
+    }
+}

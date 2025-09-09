@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:wayfinder_armor_trim_smithing_template",
+    "base": "minecraft:stone_hoe",
+    "addition": "minecraft:resin_brick",
+    "result": {
+        "id": "minecraft:stone_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:stone_hoe_wayfinder_resin"
+        }
+    }
+}

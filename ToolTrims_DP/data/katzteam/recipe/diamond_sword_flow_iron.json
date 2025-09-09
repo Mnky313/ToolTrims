@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flow_armor_trim_smithing_template",
+    "base": "minecraft:diamond_sword",
+    "addition": "minecraft:iron_ingot",
+    "result": {
+        "id": "minecraft:diamond_sword",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_sword_flow_iron"
+        }
+    }
+}

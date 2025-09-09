@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flow_armor_trim_smithing_template",
+    "base": "minecraft:netherite_hoe",
+    "addition": "minecraft:redstone",
+    "result": {
+        "id": "minecraft:netherite_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:netherite_hoe_flow_redstone"
+        }
+    }
+}

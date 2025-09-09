@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:raiser_armor_trim_smithing_template",
+    "base": "minecraft:diamond_shovel",
+    "addition": "minecraft:diamond",
+    "result": {
+        "id": "minecraft:diamond_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_shovel_raiser_diamond"
+        }
+    }
+}

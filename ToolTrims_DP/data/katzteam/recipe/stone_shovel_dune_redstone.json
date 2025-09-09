@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:dune_armor_trim_smithing_template",
+    "base": "minecraft:stone_shovel",
+    "addition": "minecraft:redstone",
+    "result": {
+        "id": "minecraft:stone_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:stone_shovel_dune_redstone"
+        }
+    }
+}

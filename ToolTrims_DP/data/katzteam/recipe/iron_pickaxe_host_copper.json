@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:host_armor_trim_smithing_template",
+    "base": "minecraft:iron_pickaxe",
+    "addition": "minecraft:copper_ingot",
+    "result": {
+        "id": "minecraft:iron_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_pickaxe_host_copper"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flow_armor_trim_smithing_template",
+    "base": "minecraft:wooden_pickaxe",
+    "addition": "minecraft:gold_ingot",
+    "result": {
+        "id": "minecraft:wooden_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:wooden_pickaxe_flow_gold"
+        }
+    }
+}

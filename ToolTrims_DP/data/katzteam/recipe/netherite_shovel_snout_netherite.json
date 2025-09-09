@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:snout_armor_trim_smithing_template",
+    "base": "minecraft:netherite_shovel",
+    "addition": "minecraft:netherite_ingot",
+    "result": {
+        "id": "minecraft:netherite_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:netherite_shovel_snout_netherite"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:sentry_armor_trim_smithing_template",
+    "base": "minecraft:wooden_hoe",
+    "addition": "minecraft:gold_ingot",
+    "result": {
+        "id": "minecraft:wooden_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:wooden_hoe_sentry_gold"
+        }
+    }
+}

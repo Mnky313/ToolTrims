@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:coast_armor_trim_smithing_template",
+    "base": "minecraft:stone_pickaxe",
+    "addition": "minecraft:gold_ingot",
+    "result": {
+        "id": "minecraft:stone_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:stone_pickaxe_coast_gold"
+        }
+    }
+}

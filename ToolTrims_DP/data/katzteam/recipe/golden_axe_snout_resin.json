@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:snout_armor_trim_smithing_template",
+    "base": "minecraft:golden_axe",
+    "addition": "minecraft:resin_brick",
+    "result": {
+        "id": "minecraft:golden_axe",
+        "components": {
+            "minecraft:item_model": "katzteam:golden_axe_snout_resin"
+        }
+    }
+}

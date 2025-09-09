@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:vex_armor_trim_smithing_template",
+    "base": "minecraft:golden_axe",
+    "addition": "minecraft:iron_ingot",
+    "result": {
+        "id": "minecraft:golden_axe",
+        "components": {
+            "minecraft:item_model": "katzteam:golden_axe_vex_iron"
+        }
+    }
+}

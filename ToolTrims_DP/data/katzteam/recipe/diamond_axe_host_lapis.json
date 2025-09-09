@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:host_armor_trim_smithing_template",
+    "base": "minecraft:diamond_axe",
+    "addition": "minecraft:lapis_lazuli",
+    "result": {
+        "id": "minecraft:diamond_axe",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_axe_host_lapis"
+        }
+    }
+}

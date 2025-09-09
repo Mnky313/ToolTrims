@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:shaper_armor_trim_smithing_template",
+    "base": "minecraft:iron_pickaxe",
+    "addition": "minecraft:netherite_ingot",
+    "result": {
+        "id": "minecraft:iron_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_pickaxe_shaper_netherite"
+        }
+    }
+}

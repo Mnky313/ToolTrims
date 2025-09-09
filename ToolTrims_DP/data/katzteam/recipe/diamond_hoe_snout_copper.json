@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:snout_armor_trim_smithing_template",
+    "base": "minecraft:diamond_hoe",
+    "addition": "minecraft:copper_ingot",
+    "result": {
+        "id": "minecraft:diamond_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_hoe_snout_copper"
+        }
+    }
+}

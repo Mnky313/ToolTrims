@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:vex_armor_trim_smithing_template",
+    "base": "minecraft:golden_pickaxe",
+    "addition": "minecraft:iron_ingot",
+    "result": {
+        "id": "minecraft:golden_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:golden_pickaxe_vex_iron"
+        }
+    }
+}

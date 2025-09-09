@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flow_armor_trim_smithing_template",
+    "base": "minecraft:stone_pickaxe",
+    "addition": "minecraft:netherite_ingot",
+    "result": {
+        "id": "minecraft:stone_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:stone_pickaxe_flow_netherite"
+        }
+    }
+}

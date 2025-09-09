@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:rib_armor_trim_smithing_template",
+    "base": "minecraft:wooden_sword",
+    "addition": "minecraft:redstone",
+    "result": {
+        "id": "minecraft:wooden_sword",
+        "components": {
+            "minecraft:item_model": "katzteam:wooden_sword_rib_redstone"
+        }
+    }
+}

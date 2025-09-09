@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:wild_armor_trim_smithing_template",
+    "base": "minecraft:iron_sword",
+    "addition": "minecraft:diamond",
+    "result": {
+        "id": "minecraft:iron_sword",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_sword_wild_diamond"
+        }
+    }
+}

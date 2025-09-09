@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flow_armor_trim_smithing_template",
+    "base": "minecraft:stone_axe",
+    "addition": "minecraft:quartz",
+    "result": {
+        "id": "minecraft:stone_axe",
+        "components": {
+            "minecraft:item_model": "katzteam:stone_axe_flow_quartz"
+        }
+    }
+}

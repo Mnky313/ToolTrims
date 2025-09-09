@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:flow_armor_trim_smithing_template",
+    "base": "minecraft:wooden_sword",
+    "addition": "minecraft:copper_ingot",
+    "result": {
+        "id": "minecraft:wooden_sword",
+        "components": {
+            "minecraft:item_model": "katzteam:wooden_sword_flow_copper"
+        }
+    }
+}

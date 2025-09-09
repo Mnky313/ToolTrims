@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/stone_pickaxe",
-    "layer1": "katzteam:trims/items/pickaxe_snout_copper"
-  }
-}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:host_armor_trim_smithing_template",
+    "base": "minecraft:diamond_shovel",
+    "addition": "minecraft:gold_ingot",
+    "result": {
+        "id": "minecraft:diamond_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_shovel_host_gold"
+        }
+    }
+}

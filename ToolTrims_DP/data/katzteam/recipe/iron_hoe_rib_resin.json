@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:rib_armor_trim_smithing_template",
+    "base": "minecraft:iron_hoe",
+    "addition": "minecraft:resin_brick",
+    "result": {
+        "id": "minecraft:iron_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_hoe_rib_resin"
+        }
+    }
+}

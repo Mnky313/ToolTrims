@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:sentry_armor_trim_smithing_template",
+    "base": "minecraft:diamond_sword",
+    "addition": "minecraft:gold_ingot",
+    "result": {
+        "id": "minecraft:diamond_sword",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_sword_sentry_gold"
+        }
+    }
+}

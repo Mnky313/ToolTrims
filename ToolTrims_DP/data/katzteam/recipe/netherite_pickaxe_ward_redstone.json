@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:ward_armor_trim_smithing_template",
+    "base": "minecraft:netherite_pickaxe",
+    "addition": "minecraft:redstone",
+    "result": {
+        "id": "minecraft:netherite_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:netherite_pickaxe_ward_redstone"
+        }
+    }
+}

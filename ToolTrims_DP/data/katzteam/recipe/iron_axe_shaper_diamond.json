@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:shaper_armor_trim_smithing_template",
+    "base": "minecraft:iron_axe",
+    "addition": "minecraft:diamond",
+    "result": {
+        "id": "minecraft:iron_axe",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_axe_shaper_diamond"
+        }
+    }
+}

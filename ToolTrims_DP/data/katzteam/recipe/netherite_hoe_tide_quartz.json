@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:tide_armor_trim_smithing_template",
+    "base": "minecraft:netherite_hoe",
+    "addition": "minecraft:quartz",
+    "result": {
+        "id": "minecraft:netherite_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:netherite_hoe_tide_quartz"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:snout_armor_trim_smithing_template",
+    "base": "minecraft:iron_shovel",
+    "addition": "minecraft:copper_ingot",
+    "result": {
+        "id": "minecraft:iron_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_shovel_snout_copper"
+        }
+    }
+}

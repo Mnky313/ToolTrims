@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:vex_armor_trim_smithing_template",
+    "base": "minecraft:diamond_pickaxe",
+    "addition": "minecraft:redstone",
+    "result": {
+        "id": "minecraft:diamond_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_pickaxe_vex_redstone"
+        }
+    }
+}

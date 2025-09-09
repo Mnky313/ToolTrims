@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:wayfinder_armor_trim_smithing_template",
+    "base": "minecraft:netherite_shovel",
+    "addition": "minecraft:diamond",
+    "result": {
+        "id": "minecraft:netherite_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:netherite_shovel_wayfinder_diamond"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:host_armor_trim_smithing_template",
+    "base": "minecraft:golden_shovel",
+    "addition": "minecraft:amethyst_shard",
+    "result": {
+        "id": "minecraft:golden_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:golden_shovel_host_amethyst"
+        }
+    }
+}

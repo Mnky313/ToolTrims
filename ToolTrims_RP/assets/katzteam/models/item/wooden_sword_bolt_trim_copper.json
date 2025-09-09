@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/wooden_sword",
-    "layer1": "katzteam:trims/items/sword_bolt_copper"
-  }
-}

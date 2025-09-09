@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:coast_armor_trim_smithing_template",
+    "base": "minecraft:iron_shovel",
+    "addition": "minecraft:gold_ingot",
+    "result": {
+        "id": "minecraft:iron_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_shovel_coast_gold"
+        }
+    }
+}

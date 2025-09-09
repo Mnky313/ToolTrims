@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:vex_armor_trim_smithing_template",
+    "base": "minecraft:diamond_hoe",
+    "addition": "minecraft:amethyst_shard",
+    "result": {
+        "id": "minecraft:diamond_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:diamond_hoe_vex_amethyst"
+        }
+    }
+}

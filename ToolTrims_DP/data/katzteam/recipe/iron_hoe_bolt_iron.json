@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:bolt_armor_trim_smithing_template",
+    "base": "minecraft:iron_hoe",
+    "addition": "minecraft:iron_ingot",
+    "result": {
+        "id": "minecraft:iron_hoe",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_hoe_bolt_iron"
+        }
+    }
+}

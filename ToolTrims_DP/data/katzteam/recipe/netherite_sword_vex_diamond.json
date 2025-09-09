@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:vex_armor_trim_smithing_template",
+    "base": "minecraft:netherite_sword",
+    "addition": "minecraft:diamond",
+    "result": {
+        "id": "minecraft:netherite_sword",
+        "components": {
+            "minecraft:item_model": "katzteam:netherite_sword_vex_diamond"
+        }
+    }
+}

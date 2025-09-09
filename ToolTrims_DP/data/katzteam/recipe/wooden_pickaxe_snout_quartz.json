@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:snout_armor_trim_smithing_template",
+    "base": "minecraft:wooden_pickaxe",
+    "addition": "minecraft:quartz",
+    "result": {
+        "id": "minecraft:wooden_pickaxe",
+        "components": {
+            "minecraft:item_model": "katzteam:wooden_pickaxe_snout_quartz"
+        }
+    }
+}

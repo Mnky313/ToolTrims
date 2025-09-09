@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:tide_armor_trim_smithing_template",
+    "base": "minecraft:iron_shovel",
+    "addition": "minecraft:resin_brick",
+    "result": {
+        "id": "minecraft:iron_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:iron_shovel_tide_resin"
+        }
+    }
+}

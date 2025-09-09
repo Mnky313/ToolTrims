@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "minecraft:rib_armor_trim_smithing_template",
+    "base": "minecraft:stone_shovel",
+    "addition": "minecraft:gold_ingot",
+    "result": {
+        "id": "minecraft:stone_shovel",
+        "components": {
+            "minecraft:item_model": "katzteam:stone_shovel_rib_gold"
+        }
+    }
+}
